@@ -1,0 +1,2 @@
+ppa:webupd8team/atom
+ppa:neovim-ppa/unstable
