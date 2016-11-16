@@ -1,2 +1,2 @@
-# PC
-PC管理用ファイルリポジトリ
+# ubuntu-setup
+ubuntuの環境構築・保守を行うスクリプト
