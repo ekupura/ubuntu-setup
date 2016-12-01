@@ -1,4 +1,4 @@
-xubuntu-desktop
+xfce4
 xfce4-goodies
 software-properties-common
 python
@@ -21,3 +21,4 @@ htop
 screen
 gparted
 curl
+wget
