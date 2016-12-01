@@ -6,7 +6,7 @@ set -eu
 echo "インストール用シェルスクリプト"
 echo -n "password:"
 read -s password
-
+echo "$password" | sudo -S ls > /dev/null
 
 #apt
 cat ./apt_repositories.txt | while read rep
